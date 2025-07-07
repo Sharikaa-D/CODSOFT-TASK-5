@@ -74,3 +74,4 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/c68300da-8dc2-4f1e-9abe-583475aadf85)
